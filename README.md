@@ -9,7 +9,7 @@ PS/2 keyboard input, lap timing, and audio — all running in hardware logic.
 > This repository contains documentation and visuals only.
 
 ## Demo
-[![FPGA Racing Game](add-photo-here)](https://youtu.be/bbQpBk9fjP8)
+https://youtu.be/bbQpBk9fjP8
 
 ## System Architecture
 
